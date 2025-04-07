@@ -1,6 +1,7 @@
 - 👋 Aloha, I’m Madison!
 - 📚 I have a lot of interests; one of them is reading books!
-- 🌱 I’m currently learning about how to better my knowledge of data science.
+- 🌱 I’m learning how to master my skills in data science.
+- ⚖️ I am studying criminal justice!
 - 🤝 Chaminade University of Honolulu 
 
 <!---
